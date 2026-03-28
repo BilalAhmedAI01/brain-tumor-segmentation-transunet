@@ -71,8 +71,6 @@ TransUNet outperforms the baseline model due to its ability to capture global co
 
 ![Segmentation Result](sample_result/transunet_result.png)
 
-*Note: If the image is not visible, ensure the file exists at:*  
-`sample_results/transunet_result.png`
 
 ---
 
