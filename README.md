@@ -39,7 +39,7 @@ In addition to model development, a complete web-based interface has been implem
 
 ## Sample Output
 
-![Segmentation Result](sample_result/transunet_result)
+![Segmentation Result](sample_result/transunet_result.png)
 
 ---
 
