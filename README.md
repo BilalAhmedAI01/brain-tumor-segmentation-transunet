@@ -68,36 +68,43 @@ The application was tested using ngrok to enable external access and simulate re
 
 
 
-Usage
-Run the notebook
-jupyter notebook notebook.ipynb
-Run Flask app
-python app.py
-Pretrained Models
+## Usage
+* Run the notebook
+* jupyter notebook notebook.ipynb
+* Run Flask app
+* python app.py
+* Pretrained Models
 
 
-Technologies Used
-Python
-PyTorch
-NumPy
-Pandas
-Matplotlib
-Nibabel
-Flask
-Future Improvements
-Enhance Dice Score through hyperparameter tuning
-Extend to 3D segmentation
-Deploy on cloud platforms (AWS / GCP)
-Author
+## Technologies Used
+* Python
+* PyTorch
+* NumPy
+* Pandas
+* Matplotlib
+* Nibabel
+* Flask
+* Future Improvements
+* Enhance Dice Score through hyperparameter tuning
+* Extend to 3D segmentation
+* Deploy on cloud platforms (AWS / GCP)
 
-Bilal Ahmed
-Bachelor of Science in Software Engineering
+## Author
 
-Interests:
-Artificial Intelligence
-Medical Imaging
-Deep Learning
+* Bilal Ahmed
+* Bachelor of Science in Software Engineering
+
+## Interests:
+* Artificial Intelligence
+* Medical Imaging
+* Deep Learning
+
 Due to GitHub size limitations, model weights are not included.
 
 Download from:
 https://drive.google.com/drive/folders/1NGUaJes5SfEilNXqjMjAB7kTMyB5MkgC
+
+## Installation
+
+```bash
+pip install -r requirements.txt
