@@ -6,7 +6,9 @@ Brain tumor segmentation is a critical task in medical image analysis, enabling 
 
 Unlike conventional approaches, this system not only focuses on model performance but also provides a practical deployment through a Flask-based web application, allowing real-time interaction and visualization of segmentation results.
 
-This project demonstrates how advanced deep learning models can be applied to real-world healthcare challenges.
+This project demonstrates how advanced deep learning models can be applied to real-world healthcare challenges and can assist medical professionals in early tumor detection and treatment planning.
+
+*Note:* The complete pipeline including model inference, Flask integration, and ngrok deployment is implemented within the Jupyter Notebook.
 
 ---
 
