@@ -66,10 +66,6 @@ The application was tested using ngrok to enable external access and simulate re
 
 ---
 
-## Installation
-
-```bash
-pip install -r requirements.txt
 
 
 Usage
