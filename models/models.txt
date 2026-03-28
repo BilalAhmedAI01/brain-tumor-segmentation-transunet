@@ -1,0 +1,6 @@
+Pretrained Models Download:
+
+Link: https://drive.google.com/drive/folders/1NGUaJes5SfEilNXqjMjAB7kTMyB5MkgC?usp=sharing
+
+Note:
+Due to GitHub size limits, model weights are hosted externally.
